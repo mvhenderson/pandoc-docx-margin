@@ -1,6 +1,6 @@
 {
   "name": "pandoc-docx-margin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "append narrow margin to pandoc generated docx",
   "main": "index.js",
   "scripts": {
